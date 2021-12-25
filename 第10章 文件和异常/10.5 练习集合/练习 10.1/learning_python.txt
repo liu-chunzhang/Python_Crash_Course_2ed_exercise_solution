@@ -1,3 +1,0 @@
-In Python you can paint many figures.
-In Python you can deal with lots of data.
-In Python you can find many secrets below data.
